@@ -7,3 +7,4 @@ days[3]="thur"
 print(days)
 days=tuple(days)
 print(days)
+print(l)

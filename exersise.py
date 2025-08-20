@@ -1,4 +1,4 @@
-temp=56.8926
+rtemp=56.8926
 result=round(temp)
 print(result)
 
